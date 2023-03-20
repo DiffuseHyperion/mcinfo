@@ -2,7 +2,7 @@
 
 <ins>*ill list quick info on this website, pls read through this at least once lol*</ins>
 
-check https://map.diffusehyperion.me for an online map of the server!
+check [here](https://map.diffusehyperion.me) for an online map of the server!
 
 the server is <ins>**1.19.4**</ins>, i urge you to <ins>update as soon as possible</ins>
 
